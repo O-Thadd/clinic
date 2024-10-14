@@ -1,0 +1,2 @@
+deletion of patient and clinic
+remove older sync button
